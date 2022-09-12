@@ -18,3 +18,7 @@ Lİnux için:
 `cd kodluyoruzilkrepo`
 
 `code .`
+
+# Contributing
+
+Pull requestler kabul edilir. Büyük değişklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
